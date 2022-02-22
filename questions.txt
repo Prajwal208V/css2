@@ -1,0 +1,6 @@
+Q 1 : Create unordered list and ordered list
+Q 2 : Create user form accepting name age contact address 
+Q 3 : Create radio button in selecting Male, Female and create checkbox for selecting options as React HTML CSS JS Node
+Q 4 : Explain different types of CSS
+Q 5 : Create an example to explain the difference between margin and padding
+Q 6 : By using flex , arranges 10 boxes. three boxes should be in a row and page should be scrollable
